@@ -1,1 +1,2 @@
-# guess-the-state
+# Guess-the-state
+It is an educational game to help the player memorize all the states in the United States. The player needes to guess the state 1 by 1 and the correct answers will be updated on the United States map. For every correct answer the score is increased. The player can discontinue the game at any time by typing 'exit' in the input prompt. All the states which weren't answered at the time of exit from the game will be displayed in the form of a list for the player to memorize them.
